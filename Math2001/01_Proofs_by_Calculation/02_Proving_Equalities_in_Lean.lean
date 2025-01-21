@@ -15,7 +15,7 @@ math2001_init
 /-! # Section 1.2: Proving equalities in Lean -/
 
 /- HEY LOOKS LIKE I CAN JUST ADD IN COMMENTS AND EDITS
-DO YOU SEE THIS??
+DO YOU SEE THIS?? blah blah blah more changes
 -/
 
 -- Example 1.2.1
